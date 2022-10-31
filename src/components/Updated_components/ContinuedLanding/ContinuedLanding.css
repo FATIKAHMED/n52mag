@@ -11,3 +11,43 @@ height:337px;
     
 } */
 
+
+.n52{
+    text-align: left;
+    color: #FF443B;
+    font-size: 63px;
+line-height: 75.6px;
+font-weight: 800;
+padding: 15px;
+margin: 15px
+    
+}
+.sp1{
+    color: #292F75;
+    font-weight: 900;
+}
+.sp2{
+    color: #292F75;
+    font-weight: 900
+}
+.para{
+    font-weight: 400;
+    font-size: 18px;
+    color: #FF443B;
+    padding: 20px 15px 15px 15px;
+    margin: 15px;
+    
+}
+
+.primary_button{
+    width: 115px;
+    font-size: 15px;
+    background-color: #292F75;
+    font-weight: 600;
+    padding: 10px;
+    left: 30px;
+}
+.para_div{
+   padding-top: 5px;
+}
+
