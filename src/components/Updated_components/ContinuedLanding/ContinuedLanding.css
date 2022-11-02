@@ -1,0 +1,65 @@
+.magnet-picture1{
+width: 373px;
+height:337px;
+}
+.magnet-picture2{
+    width: 373px;
+    height: 333px;
+
+}
+/* .magnet-picture3{
+    
+} */
+
+
+.n52{
+    text-align: left;
+    color: #FF443B;
+    font-size: 56Spx;
+line-height: 75.6px;
+font-weight: 800;
+padding: 15px;
+margin: 15px
+    
+}
+.sp1{
+    color: #292F75;
+    font-weight: 900;
+}
+.sp2{
+    color: #292F75;
+    font-weight: 900
+}
+.para{
+    font-weight: 300;
+    font-size: 18px;
+    color: #FF443B;
+    padding: 15px 15px 15px 15px;
+    /* margin: 15px; */
+    
+}
+
+.primary_button{
+    width: 200px;
+    height: 56px;
+    font-size: 15px;
+    background-color: #292F75;
+    font-weight: 600;
+    padding: 10px;
+    left: 30px;
+/* }
+.magandhooks{
+    /* width: 1185px; */
+    /* height: 679px; */
+} */
+.fishing_hook{
+   
+    width: 56px;
+    height: 56px;
+
+}
+.gloves{
+    width: 37.36px;
+    height: 56px;
+}
+
